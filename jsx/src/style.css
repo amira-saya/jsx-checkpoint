@@ -1,0 +1,21 @@
+.title{
+    font-family: "Times New Roman", Times, serif;
+    text-align: center;
+    color: blueviolet;
+  
+}
+.red{
+    text-align: center;
+    color: blueviolet;
+}
+
+.srcImage{
+width: 250px;
+height:150px;
+margin:20px;
+}
+.publicImage{
+    width:250px;
+    height: 150px;
+    margin:20px;
+}
